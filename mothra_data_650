@@ -1,6 +1,4 @@
-(DefaultSC.A1ModJulian) vs (DefaultSC.SolarPowerSystem1.TotalPowerAvailable)
-DefaultSC.A1ModJulian   DefaultSC.SolarPowerSystem1.TotalPowerAvailable
-DefaultSC.SolarPowerSystem1.TotalPowerAvailable
+DefaultSC.A1ModJulian, DefaultSC.SolarPowerSystem1.TotalPowerAvailable
 29294.5004286387, 0.0947000938740166
 29294.5011230831, 0.094699870043845
 29294.5021772515, 0.0946994640406133
